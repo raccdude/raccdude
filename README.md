@@ -23,7 +23,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/raccdude/asphyr-app/main/docs/assets/logo/asphyr-icon.png" alt="ASPHYR icon" width="72" />
+<img src="https://raw.githubusercontent.com/raccdude/asphyr-app/main/docs/assets/logo/asphyr-icon-square.png" alt="ASPHYR icon" width="72" />
 
 ### [ASPHYR](https://github.com/raccdude/asphyr-app)
 
