@@ -46,7 +46,7 @@ An iPhone app that turns self-improvement into a game-inspired journey: real que
 
 A machine-learning web app that ranks which patients in PhilHealth YAKAP clinics should get the urine albumin test first, to find kidney damage early. Built for PJDSC 2026.
 
-**My role:** team contributor. [Describe what you built here.]
+**My role:** team contributor. 
 
 `React` `NestJS` `PostgreSQL` `Python`
 
